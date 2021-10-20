@@ -1,0 +1,7 @@
+id,ename,edesignation,elocation,deptname
+29,jyothsna,BTECH,pune,Testing
+30,vishnu,MTECH,pune,Testing
+31,dhanvika,SE,pune,Testing
+32,rk,BTECH,Bengalore,Testing
+33,priya,BTECH,pune,Testing
+34,vinodh,BTECH,US,Testing

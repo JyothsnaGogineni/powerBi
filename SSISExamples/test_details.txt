@@ -1,0 +1,5 @@
+id,firstname,lastname,marks
+1,jyothsna,gogineni,700
+2,vishnu,sakhamuri,800
+3,dhanvika,sakhamuri,750
+4,anjaiah,gogineni,850

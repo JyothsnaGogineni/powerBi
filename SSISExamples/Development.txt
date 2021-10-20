@@ -1,0 +1,8 @@
+id,ename,edesignation,elocation,deptname
+1,jyothsna,BTECH,pune,Develepment
+2,vishnu,MTECH,pune,Develepment
+3,dhanvika,SE,pune,Develepment
+4,rk,BTECH,Bengalore,Develepment
+5,priya,BTECH,pune,Develepment
+6,vinodh,BTECH,US,Develepment
+7,Prasanth,BTECH,US,Develepment

@@ -1,0 +1,13 @@
+1.What is SQL Server?
+
+SQL Server is the RDBMS system provided by Microsoft which functions mainly as retrieving and storing the data as per user request.
+
+2.What is Normalization?
+
+In RDBMS, the process of organizing data to minimize redundancy and surety of logical data integrity is called normalization. In normalization, the database is divided into two or more tables, and a relationship is defined among the tables. Normalization technique increases performance for the database.
+
+Types of Normalization
+There are types of normalization used, which are given below.
+1NF
+2NF
+3NF

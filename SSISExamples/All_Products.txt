@@ -1,0 +1,12 @@
+PID,pcategory,pSubcategory,price
+1,Laptop,Lenovo,35000
+2,Laptop,Dell,38000
+3,Laptop,Hp,32000
+4,Mobiles,Samsung,18000
+5,Mobiles,Apple,80000
+6,Mobiles,oneplus,30000
+1,AC,LG,42000
+2,AC,Samsung,44000
+3,AC,Onida,43000
+4,Fridge,Samsung,18000
+5,Fridge,LG,19000

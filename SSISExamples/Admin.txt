@@ -1,0 +1,8 @@
+id,ename,edesignation,elocation,deptname
+15,jyothsna,BTECH,pune,Admin
+16,vishnu,MTECH,pune,Admin
+17,dhanvika,SE,pune,Admin
+18,rk,BTECH,Bengalore,Admin
+19,priya,BTECH,pune,Admin
+20,vinodh,BTECH,US,Admin
+21,Prasanth,BTECH,US,Admin

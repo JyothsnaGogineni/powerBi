@@ -1,0 +1,8 @@
+id,ename,edesignation,elocation,deptname
+8,jyothsna,BTECH,pune,Sales
+9,vishnu,MTECH,pune,Sales
+10,dhanvika,SE,pune,Sales
+11,rk,BTECH,Bengalore,Sales
+12,priya,BTECH,pune,Sales
+13,vinodh,BTECH,US,Sales
+14,Prasanth,BTECH,US,Sales

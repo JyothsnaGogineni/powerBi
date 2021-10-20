@@ -1,0 +1,8 @@
+id,ename,edesignation,elocation,deptname
+22,jyothsna,BTECH,pune,Finance
+23,vishnu,MTECH,pune,Finance
+24,dhanvika,SE,pune,Finance
+25,rk,BTECH,Bengalore,Finance
+26,priya,BTECH,pune,Finance
+27,vinodh,BTECH,US,Finance
+28,Prasanth,BTECH,US,Finance
